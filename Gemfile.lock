@@ -3,6 +3,7 @@ GEM
   specs:
     Ascii85 (1.0.3)
     afm (0.2.2)
+    builder (3.2.3)
     color (1.8)
     hashery (2.1.2)
     pdf-reader (2.2.0)
@@ -28,6 +29,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  builder
   ruport
 
 BUNDLED WITH
