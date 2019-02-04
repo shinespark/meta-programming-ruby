@@ -1,4 +1,4 @@
-# メソッドを動的に呼び出す
+# メソッドを動的に呼び出す: 動的ディスパッチ
 
 class MyClass
   def my_method(my_arg)

@@ -1,4 +1,4 @@
-# メソッドを動的に定義する
+# メソッドを動的に定義する: 動的メソッド
 class MyClass
   define_method :my_method do |my_arg|
     my_arg * 3

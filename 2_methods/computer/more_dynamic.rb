@@ -1,3 +1,4 @@
+# 動的メソッドと動的ディスパッチ
 class Computer
   def initialize(computer_id, data_source)
     @id = computer_id
